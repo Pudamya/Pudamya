@@ -23,4 +23,5 @@ I’m looking to collaborate on exciting tech projects that involve AI and Data 
 - **Email**: pudamya.rathnayake.contact@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/pudamya-vidusini-rathnayake-a89ba5286
 - **Medium**: https://medium.com/@pudamyavidusinirathnayake
+- **Blogger**: https://pudamyavidusinirathnayake.blogspot.com/
 
