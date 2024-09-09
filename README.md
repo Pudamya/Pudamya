@@ -10,7 +10,7 @@ I have a deep interest in Artificial Intelligence (AI) and Data Science. I am ca
 - **Java**: Enhancing my skills in Java to build robust and interactive applications.
 - **UI/UX Design**: Delving into design principles to create user-friendly and visually appealing interfaces.
 - **Prompt Engineering**: Developing effective prompts for AI models to optimize their performance and utility.
-- **mySQL**: Learning how to manage and query relational databases efficiently.
+- **MySQL**: Learning how to manage and query relational databases efficiently.
 - **Python**: Exploring Python for its versatility in AI, Data Science, and general programming tasks.
 - **HTML**: Improving my web development skills by mastering HTML and its applications.
 
