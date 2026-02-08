@@ -1,27 +1,56 @@
-# 👋 Hi, I’m Pudamya Vidusini
+<!-- Header with name & intro -->
+<h1 align="center">👋 Hi, I’m Pudamya Vidusini Rathnayake</h1>
+<p align="center">A passionate learner in <b>Artificial Intelligence & Data Science. n</b></p>
 
-Welcome to my GitHub profile! I am an enthusiastic undergraduate at the Informatics Institute of Technology, currently pursuing a degree in AI and Data Science. Here’s a bit more about me:
+<!-- Social links -->
+<p align="center">
+  <a href="https://github.com/Pudamya">🐱 GitHub</a> · 
+  <a href="https://www.linkedin.com/in/pudamya-rathnayake">💼 LinkedIn</a> ·
+  <a href="https://medium.com/@pudamyavidusinirathnayake">✍️ Medium</a>
+</p>
 
-##  Interests
-I have a deep interest in Artificial Intelligence (AI) and Data Science. I am captivated by how these technologies can be harnessed to tackle complex challenges, derive meaningful insights from data, and drive innovation across various domains.
+---
 
-## Current Learning
-- **AI and Data Science**: Deepening my knowledge in AI and Data Science to leverage technologies in solving real-world problems.
-- **Java**: Enhancing my skills in Java to build robust and interactive applications.
-- **UI/UX Design**: Delving into design principles to create user-friendly and visually appealing interfaces.
-- **Prompt Engineering**: Developing effective prompts for AI models to optimize their performance and utility.
-- **MySQL**: Learning how to manage and query relational databases efficiently.
-- **Python**: Exploring Python for its versatility in AI, Data Science, and general programming tasks.
-- **HTML**: Improving my web development skills by mastering HTML and its applications.
+## 🚀 About Me
+- 🌱 I’m currently exploring **AI, Machine Learning, and Web Development**
+- ⚡ I love solving problems with **Python, Java, SQL**
+- 💬 Ask me about Data Science, Git, Projects & Collaboration
+
+---
+
+## 🛠️ Tech Stack
+**Languages:** Python, Java, SQL  
+**Tools & Frameworks:** Git, Jupyter, Pandas, NumPy, Scikit-Learn, Flask  
+**Databases:** MySQL  
+**Other:** HTML, CSS, JavaScript
+
+---
+
+## 📂 Featured Projects
+Here are some of my highlighted works:
+
+- 🔹 **FinanceGuard** – A finance tracking/analysis tool  
+- 🔹 **Demo Projects** – Practice work & learning demos  
+- 🔹 **Web Development Course Projects** – Frontend & JS explorations  
+
+*(Add descriptions + links to your repos here!)*
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pudamya&show_icons=true&theme=github_dark&cache_seconds=1800" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pudamya&layout=compact&theme=github_dark&cache_seconds=1800" />
+</p>
 
 
+## 📫 Contact
+Feel free to reach out:
 
-## Collaboration
-I’m looking to collaborate on exciting tech projects that involve AI and Data Science. If you’re working on something innovative or have an interesting idea, I’d love to connect and explore potential collaborations.
+📧 Email: pudamya.rathnayake.contact@gmail.com
 
-## 📫 How to Reach Me
-- **Email**: pudamya.rathnayake.contact@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/pudamya-vidusini-rathnayake-a89ba5286
-- **Medium**: https://medium.com/@pudamyavidusinirathnayake
-- **Blogger**: https://pudamyavidusinirathnayake.blogspot.com/
+---
 
+> 💡 *“Keep learning, keep coding, keep contributing!”*
