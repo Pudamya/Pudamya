@@ -14,7 +14,7 @@
 ## 🚀 About Me
 - 🌱 I’m currently exploring **AI, Machine Learning, and Web Development**
 - ⚡ I love solving problems with **Python, Java, SQL**
-- 💬 Ask me about Data Science, Git, Projects & Collaboration
+- 💬 Ask me about AI and Data Science
 
 ---
 
@@ -33,18 +33,13 @@ Here are some of my highlighted works:
 - 🔹 **Demo Projects** – Practice work & learning demos  
 - 🔹 **Web Development Course Projects** – Frontend & JS explorations  
 
-*(Add descriptions + links to your repos here!)*
-
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pudamya&show_icons=true&theme=github_dark&cache_seconds=1800" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pudamya&layout=compact&theme=github_dark&cache_seconds=1800" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pudamya&theme=dark" alt="GitHub streak" />
 </p>
-
 
 ## 📫 Contact
 Feel free to reach out:
